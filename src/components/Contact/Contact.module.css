@@ -1,0 +1,28 @@
+.contact {
+border: 1px solid black;
+border-radius: 4px;
+padding: 4px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+gap: 12px;
+}
+
+.name {
+    font-size: 20px;
+}
+
+.number {
+    font-size: 16px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-left: 10px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    background-color: grey;
+    color: #000;
+    cursor: pointer;
+}
