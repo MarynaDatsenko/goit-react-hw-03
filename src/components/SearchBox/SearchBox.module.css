@@ -1,0 +1,9 @@
+.input {
+    width: 276px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.input:focus {
+    outline-color: lightskyblue;
+}
