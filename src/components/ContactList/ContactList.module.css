@@ -1,13 +1,12 @@
 .list {
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
+display: flex;
+flex-wrap: wrap;
+column-gap: 12px;
+row-gap: 12px;
 }
 
 .item {
-max-width: 600px;
-list-style: none;
+    max-width: 600px;
+    list-style: none;
 }
 
